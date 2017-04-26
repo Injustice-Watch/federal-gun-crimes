@@ -1,0 +1,4 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+283016|1:13-cr-00210                           |USA v. Carrino et al|03/13/2013|05/29/2014||cr||281149|1:13-cr-00210|USA v. Carrino et al|03/13/2013|05/29/2014||Chicago|Rebecca R. Pallmeyer||1:2013-cr-00210|2|0|Angela Marie Carrino|05/01/2013|05/29/2014|2||
+297860|1:14-cr-00372                           |USA v. Keiran|07/31/2014|10/15/2015||cr||297859|1:14-cr-00372|USA v. Keiran|07/31/2014|10/15/2015||Chicago|Matthew F. Kennelly||1:2014-cr-00372|1|2|Patrick Sean Keiran|07/01/2014|10/15/2015|1||
+|||||||||||||||||||||||||

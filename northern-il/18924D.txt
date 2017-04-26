@@ -1,0 +1,3 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+298286|3:14-cr-50033                           |USA v. Farley |07/15/2014|04/30/2015||cr||298285|3:14-cr-50033|USA v. Farley |07/15/2014|04/30/2015||Rockford|Frederick J. Kapala|Iain D. Johnston|3:2014-cr-50033|1|3|Wayne G Farley|07/15/2014|04/30/2015|1||
+|||||||||||||||||||||||||

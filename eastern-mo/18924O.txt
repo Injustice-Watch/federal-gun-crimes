@@ -1,0 +1,8 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+138605|4:15-cr-00112-AGF                       |USA v. McGhee|03/11/2015|07/14/2015||cr||138604|4:15-cr-00112-AGF|USA v. McGhee|03/11/2015|07/14/2015||St. Louis|Audrey G. Fleissig||4:2015-cr-00112|1|2|Don McGhee|03/11/2015|07/14/2015|1||
+139742|4:15-cr-00230-JAR-JMB                   |USA v. Temple et al|05/13/2015|||cr||139741|4:15-cr-00230-JAR|USA v. Temple et al|05/13/2015|||St. Louis|John A. Ross|John M. Bodenhausen|4:2015-cr-00230|1|0|Jacobi R. Temple|05/13/2015||1||
+140833|4:15-cr-00230-JAR                       |USA v. Temple et al|05/13/2015|||cr||139741|4:15-cr-00230-JAR|USA v. Temple et al|05/13/2015|||St. Louis|John A. Ross||4:2015-cr-00230|2|0|Demante Syms|07/15/2015||2||
+140834|4:15-cr-00230-JAR                       |USA v. Temple et al|05/13/2015|||cr||139741|4:15-cr-00230-JAR|USA v. Temple et al|05/13/2015|||St. Louis|John A. Ross||4:2015-cr-00230|3|0|Samuel Spires|07/15/2015||3||
+140888|4:15-cr-00335-CDP                       |USA v. Taylor et al|07/16/2015|||cr||140887|4:15-cr-00335-CDP|USA v. Taylor et al|07/16/2015|||St. Louis|Catherine D. Perry||4:2015-cr-00335|1|5|Dwane Taylor|07/16/2015||1||
+142381|4:15-cr-00335-CDP                       |USA v. Taylor et al|07/16/2015|||cr||140887|4:15-cr-00335-CDP|USA v. Taylor et al|07/16/2015|||St. Louis|Catherine D. Perry||4:2015-cr-00335|2|5|Joe Edger|10/07/2015||2||
+|||||||||||||||||||||||||

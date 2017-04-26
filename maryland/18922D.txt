@@ -1,0 +1,4 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+201418|8:12-cr-00238-RWT                       |USA v. Johnson|05/02/2012|12/05/2012||cr||201417|8:12-cr-00238-RWT|USA v. Johnson|05/02/2012|12/05/2012||Greenbelt|Roger W Titus||8:2012-cr-00238|1|8|Philip Rudolph Johnson, Jr.|05/02/2012|12/05/2012|1||
+282739|8:14-cr-00307-PWG                       |USA v. Proctor|06/23/2014|08/04/2015||cr||282738|8:14-cr-00307-PWG|USA v. Proctor|06/23/2014|08/04/2015||Greenbelt|Paul W. Grimm||8:2014-cr-00307|1|7|William Terrance Proctor|06/23/2014|08/04/2015|1||
+|||||||||||||||||||||||||

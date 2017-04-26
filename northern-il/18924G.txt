@@ -1,0 +1,5 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+283864|1:13-cr-00446                           |USA v. Triplett|05/23/2013|||cr||283863|1:13-cr-00446|USA v. Triplett|05/23/2013|||Chicago|Charles R. Norgle, Sr.||1:2013-cr-00446|1|6|Michael Triplett|05/23/2013||1||
+324557|1:16-cr-00206                           |USA v. Roman|05/24/2016|||cr||324556|1:16-cr-00206|USA v. Roman|03/24/2016|||Chicago|Sharon Johnson Coleman||1:2016-cr-00206|1|6|Eduardo Roman|03/24/2016||1||
+329904|1:16-cr-00496                           |USA v. Martinez |08/02/2016|||cr||329903|1:16-cr-00496|USA v. Martinez |08/02/2016|||Chicago|Edmond E. Chang||1:2016-cr-00496|1|6|Michael M Martinez|08/02/2016||1||
+|||||||||||||||||||||||||

@@ -1,0 +1,4 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+378965|1:17-cr-00063-RDB                       |USA v. Hill|02/06/2017|02/06/2017||cr||378964|1:17-cr-00063-RDB|USA v. Hill|02/06/2017|02/06/2017||Baltimore|Richard D. Bennett||1:2017-cr-00063|1|3|Shcray Hill|02/06/2017|02/06/2017|1||
+242677|8:13-cr-00324-GLR                       |USA v. Cox|06/19/2013|10/14/2014||cr||242676|8:13-cr-00324-GLR|USA v. Cox|06/19/2013|10/14/2014||Greenbelt|George Levi Russell, III||8:2013-cr-00324|1|4|Vyron Alexander Cox, Jr.|06/19/2013|10/14/2014|1||
+|||||||||||||||||||||||||

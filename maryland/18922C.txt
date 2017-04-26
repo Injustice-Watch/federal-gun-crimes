@@ -1,0 +1,5 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+355705|1:16-cr-00322-JFM                       |USA v. Candelario |06/28/2016|08/25/2016||cr||355704|1:16-cr-00322-JFM|USA v. Candelario |06/28/2016|08/25/2016||Baltimore|J. Frederick Motz||1:2016-cr-00322|1|2|Ronnie Candelario|06/28/2016|08/25/2016|1||
+199376|8:12-cr-00113-TDC                       |USA v. Brennan|03/05/2012|09/08/2015||cr||199375|8:12-cr-00113-TDC|USA v. Brennan|03/05/2012|09/08/2015||Greenbelt|Theodore D. Chuang||8:2012-cr-00113|1|3|Richard Brennan|03/05/2012|09/08/2015|1||
+233186|8:13-cr-00139-PWG                       |USA v. Perry|03/25/2013|11/19/2013||cr||233185|8:13-cr-00139-PWG|USA v. Perry|03/25/2013|11/19/2013||Greenbelt|Paul W. Grimm||8:2013-cr-00139|1|9|Darryl Richard Perry|03/25/2013|11/19/2013|1||
+|||||||||||||||||||||||||
